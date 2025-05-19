@@ -12,3 +12,8 @@
 3. 영상 저장
 + mp4파일로 저장됨, 확장자 변경 가능 
 ![image](https://github.com/user-attachments/assets/01f0e2a6-40cb-47a4-84d6-1e11399fcf22)
+
+4. 1번 코드 분할 컴파일
++ pub.hpp, pub.cpp, pmain.cpp
++ sub.hpp, sub.cpp, smain.cpp
+![image](https://github.com/user-attachments/assets/25b7e10e-ead9-4e5b-a9c1-a7b085fc7625)
