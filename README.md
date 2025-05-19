@@ -8,3 +8,7 @@
 + 흑백 후 이진화 영상
 
 ![image](https://github.com/user-attachments/assets/78831f53-afbd-468d-a281-8ec0edaa5e23)
+
+3. 영상 저장
++ mp4파일로 저장됨, 확장자 변경 가능 
+![image](https://github.com/user-attachments/assets/01f0e2a6-40cb-47a4-84d6-1e11399fcf22)
